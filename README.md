@@ -1,5 +1,8 @@
 # 💫 About Me:
-Software Engineering student with a strong interest in programming, web development, and computer networks.<br> I enjoy building practical projects while continuously improving my programming and problem-solving skills.<br><br>I’m particularly interested in software development, networking, and system administration, with a goal of developing strong technical skills through hands-on projects and real-world experience.<br>Currently learning, building, and expanding my knowledge.
+
+
+Software Engineering student passionate about programming, web development, and computer networking. I enjoy turning ideas into practical projects, and I use every one of them to sharpen my problem-solving skills and deepen my understanding of how software and systems work. I'm especially interested software development, networking, and system administration, and my goal is to build strong technical foundations through hands-on projects and real-world experience.
+ I'm always learning, building, and improving, driven by curiosity and a constant desire to understand how things work. I enjoy working in a team, sharing ideas, and learning from others.
 
 
 ## 🌐 Socials:
